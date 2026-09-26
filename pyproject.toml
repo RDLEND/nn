@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "nn"
+name = "lib-nn-python3"
 version = "0.1.0"
 authors = [
   { name="RDLEND", email="rdlendalt@gmail.com" },
